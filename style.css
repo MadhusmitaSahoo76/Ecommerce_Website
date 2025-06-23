@@ -616,10 +616,22 @@ footer .copyright {
 #prodetails .single-pro-details button {
   background: #088178;
   color: #fff;
+  padding: 12px 24px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  height: 47px; /* Matches input height */
+  vertical-align: middle;
 }
 
 #prodetails .single-pro-details span {
   line-height: 25px;
+}
+
+#page-header .blog-header {
+  background-image: url("img/banner/b19.jpg");
+
 }
 
 @media (max-width: 799px) {
