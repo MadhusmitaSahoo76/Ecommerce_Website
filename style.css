@@ -916,6 +916,9 @@ footer .copyright {
   footer .copyright {
     text-align: start;
   }
+
+/* Single Product */
+
   #prodetails {
     display: flex;
     flex-direction: column;
@@ -925,6 +928,24 @@ footer .copyright {
     margin-right: 0px;
   }
   #prodetails .single-pro-details {
+    width: 100%;
+  }
+
+/* Blog Page */
+blog {
+  padding: 100px 20px 0 20px;
+}
+#blog.blog-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start
+  }
+  #blog .blog-img {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+  #blog .blog-details {
     width: 100%;
   }
 }
