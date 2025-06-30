@@ -44,4 +44,4 @@ A simple and responsive E-Commerce Website built using HTML, CSS, and JavaScript
 
 <!-- Uploading "Screenshot 2025-06-30 160149.png"... -->
 
-<!-- Uploading "Screenshot 2025-06-30 160158.png"... -->
+Uploading "Screenshot 2025-06-30 160158.png"
